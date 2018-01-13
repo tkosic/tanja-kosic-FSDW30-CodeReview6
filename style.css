@@ -1,0 +1,99 @@
+/* Style for the heeader */
+.brand-name {
+	color: white;
+	background: #363636;
+	border-bottom: 1px solid #ebebeb;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+	margin-top: 0;
+	padding-top: 20px;
+	font-family: 'Great Vibes', cursive;
+}
+
+body{
+	background:  #363636;
+}
+
+/* Style for the carousel caption */
+
+.carousel-caption {
+	padding-bottom: 200px;
+	font-weight: bold;
+	font-size: 50px;
+}
+
+/* Style for the navigation bar */
+
+.nav {
+ font-size: 17px;
+}
+
+.navbar .navbar-nav {
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
+}
+
+.navbar-inverse {
+	border-bottom: 1px solid #ebebeb;
+}
+
+/* Style for the main content */
+
+.container {
+	background: #e6e6e6;
+	padding: 30px 10px 30px 15px;
+	border-radius: 10px;
+	margin-bottom: 40px;
+}
+
+.row {
+	margin: 0 10px 20px 10px;
+	margin-right: 10px;
+	overflow: hidden;
+}
+
+h2, h3, h4 {
+	color: black;
+}
+
+[class*="col-"] {
+	border-top: 5px solid #e6e6e6;
+	background: #C8C8C8;
+	border-right: 5px solid #e6e6e6;
+	margin-bottom: -99999px;
+    padding-bottom: 99999px;
+}
+p {
+	font-size: 19px;
+}
+
+.fa-star:before {
+	color: #404040;
+}
+
+/* Style for the footer */
+
+.footer h3 {
+	text-align: center;
+	color: white;
+}
+
+.footer {
+	border-top: 1px solid #ebebeb;
+	text-align: center;
+	background:  #363636;
+}
+
+.fa {
+	font-size:36px;
+	color: #ebebeb;
+	margin-right: 10px;
+}
